@@ -1,5 +1,5 @@
 {
-version : '3.9',
+version : '1.1',
 DownlaodUrl: '',
 iMessage : 'Tool has beed closed \nBecouse there was problem in Tool \nSoon will be fixded',
 ChangeLog : 'Anger',
